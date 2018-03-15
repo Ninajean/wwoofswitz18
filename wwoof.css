@@ -97,3 +97,9 @@ font-size:      5em;
 #social a{
   padding-right: 10px;
 }
+iframe {
+	max-width: 90vw;
+}
+#locations {
+  padding-top: 45px;
+}
