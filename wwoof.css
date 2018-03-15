@@ -14,9 +14,29 @@
      background-position: center;
      color: white;
      padding-top: 50px;
-    padding-right: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+#why {
+      background: #C0C0C0;
+     background-size: cover;
+     background-position: center;
+     color: white;
+     padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 130px;
+    padding-left: 50px;
+}
+#start {
+      background: #DBB1CD;
+     background-size: cover;
+     background-position: center;
+     color: white;
+     padding-top: 50px;
+    padding-right: 50px;
     padding-bottom: 50px;
-    padding-left: 80px;
+    padding-left: 50px;
 }
 #locations {
   padding-top: 50px;
@@ -73,6 +93,6 @@
     padding-top: 100px;
 }
 .carousel-caption h1 {
-font-family:    Helvetica;
+font-family:   Helvetica;
 font-size:      5em;
 }
