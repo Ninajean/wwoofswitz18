@@ -96,3 +96,9 @@
 font-family:   Helvetica;
 font-size:      5em;
 }
+#social {
+  padding-top: 45px;
+}
+#social a{
+  padding-right: 10px;
+}
