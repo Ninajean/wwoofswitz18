@@ -72,3 +72,7 @@
     bottom: auto;
     padding-top: 100px;
 }
+.carousel-caption h1 {
+font-family:    Helvetica;
+font-size:      5em;
+}
